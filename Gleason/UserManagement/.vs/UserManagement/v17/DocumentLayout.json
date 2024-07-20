@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Bhargav\\UserManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E9BE75-B827-42D0-886A-0304A38687AA}|UserManagement\\UserManagement.csproj|c:\\bhargav\\usermanagement\\usermanagement\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E9BE75-B827-42D0-886A-0304A38687AA}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E9BE75-B827-42D0-886A-0304A38687AA}|UserManagement\\UserManagement.csproj|c:\\bhargav\\usermanagement\\usermanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E8E9BE75-B827-42D0-886A-0304A38687AA}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E9BE75-B827-42D0-886A-0304A38687AA}|UserManagement\\UserManagement.csproj|c:\\bhargav\\usermanagement\\usermanagement\\model\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E9BE75-B827-42D0-886A-0304A38687AA}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\model\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E9BE75-B827-42D0-886A-0304A38687AA}|UserManagement\\UserManagement.csproj|c:\\bhargav\\usermanagement\\usermanagement\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E9BE75-B827-42D0-886A-0304A38687AA}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E9BE75-B827-42D0-886A-0304A38687AA}|UserManagement\\UserManagement.csproj|c:\\bhargav\\usermanagement\\usermanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E9BE75-B827-42D0-886A-0304A38687AA}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Bhargav\\UserManagement\\UserManagement\\Migrations\\20240720091108_Database update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UserManagement\\Migrations\\20240720091108_Database update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E9BE75-B827-42D0-886A-0304A38687AA}|UserManagement\\UserManagement.csproj|c:\\bhargav\\usermanagement\\usermanagement\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E9BE75-B827-42D0-886A-0304A38687AA}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E9BE75-B827-42D0-886A-0304A38687AA}|UserManagement\\UserManagement.csproj|c:\\bhargav\\usermanagement\\usermanagement\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E9BE75-B827-42D0-886A-0304A38687AA}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Bhargav\\UserManagement\\UserManagement\\Migrations\\20240720090824_Database creation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UserManagement\\Migrations\\20240720090824_Database creation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 181,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5e385563-b223-56a3-bc93-275ed7d58a3a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Bhargav\\UserManagement\\UserManagement\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "UserManagement\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Bhargav\\UserManagement\\UserManagement\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "UserManagement\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwB0AAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T13:34:25.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JwtOptions.cs",
+              "DocumentMoniker": "C:\\Bhargav\\UserManagement\\UserManagement\\Model\\JwtOptions.cs",
+              "RelativeDocumentMoniker": "UserManagement\\Model\\JwtOptions.cs",
+              "ToolTip": "C:\\Bhargav\\UserManagement\\UserManagement\\Model\\JwtOptions.cs",
+              "RelativeToolTip": "UserManagement\\Model\\JwtOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T12:36:09.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240720091108_Database update.cs",
+              "DocumentMoniker": "C:\\Bhargav\\UserManagement\\UserManagement\\Migrations\\20240720091108_Database update.cs",
+              "RelativeDocumentMoniker": "UserManagement\\Migrations\\20240720091108_Database update.cs",
+              "ToolTip": "C:\\Bhargav\\UserManagement\\UserManagement\\Migrations\\20240720091108_Database update.cs",
+              "RelativeToolTip": "UserManagement\\Migrations\\20240720091108_Database update.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T09:11:08.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Bhargav\\UserManagement\\UserManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "UserManagement\\appsettings.json",
+              "ToolTip": "C:\\Bhargav\\UserManagement\\UserManagement\\appsettings.json",
+              "RelativeToolTip": "UserManagement\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-20T08:57:54.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Bhargav\\UserManagement\\UserManagement\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "UserManagement\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Bhargav\\UserManagement\\UserManagement\\Controllers\\UserController.cs",
+              "RelativeToolTip": "UserManagement\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T08:51:58.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Bhargav\\UserManagement\\UserManagement\\Program.cs",
+              "RelativeDocumentMoniker": "UserManagement\\Program.cs",
+              "ToolTip": "C:\\Bhargav\\UserManagement\\UserManagement\\Program.cs",
+              "RelativeToolTip": "UserManagement\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T09:00:21.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Bhargav\\UserManagement\\UserManagement\\Model\\User.cs",
+              "RelativeDocumentMoniker": "UserManagement\\Model\\User.cs",
+              "ToolTip": "C:\\Bhargav\\UserManagement\\UserManagement\\Model\\User.cs",
+              "RelativeToolTip": "UserManagement\\Model\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T08:56:10.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Bhargav\\UserManagement\\UserManagement\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "UserManagement\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Bhargav\\UserManagement\\UserManagement\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "UserManagement\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T08:53:45.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240720090824_Database creation.cs",
+              "DocumentMoniker": "C:\\Bhargav\\UserManagement\\UserManagement\\Migrations\\20240720090824_Database creation.cs",
+              "RelativeDocumentMoniker": "UserManagement\\Migrations\\20240720090824_Database creation.cs",
+              "ToolTip": "C:\\Bhargav\\UserManagement\\UserManagement\\Migrations\\20240720090824_Database creation.cs",
+              "RelativeToolTip": "UserManagement\\Migrations\\20240720090824_Database creation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T09:08:24.903Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 187,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{554c35d9-bf5e-5ffd-80de-932222077110}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
