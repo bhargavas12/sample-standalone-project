@@ -1,0 +1,29 @@
+
+<div class="container">
+    <h1>User Management</h1>
+    <div>
+        <a [routerLink]="['/add-user']" class="pull-right">Add New User +</a>
+    </div>
+    <div>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Roles</th>
+                <th>Customer Type</th>
+                <th>Trail User</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let user of Users">
+                <td>{{user.userName}}</td>
+                <td>{{user.email}}</td>
+                <td>{{user.roles}}</td>
+                <td>{{user.customerType}}</td>
+                <td>{{user.isTrailUser}}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+</div>

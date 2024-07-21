@@ -1,0 +1,18 @@
+<div class="container">
+    <h3>GEMS Cloud Web Application</h3>
+    <div class="mt-3 input-icons">
+        <form #form="ngForm" (ngSubmit)="Login()">
+
+            <div class="input-icons">
+                <i class="fa fa-user icon"></i>
+                <input class="input-field form-control" [(ngModel)]="loginModel.UserName" name="UserName" type="text" placeholder="Username" id="UserName">
+            </div>
+
+            <div class="input-icons">
+                <i class="fa fa-key icon"></i>
+                <input class="input-field form-control" type="password" placeholder="Password" [(ngModel)]="loginModel.Password" name="password" id="password">
+            </div>
+            <button type="submit" class="btn btn-primary">Login</button>
+        </form>
+    </div>
+</div>

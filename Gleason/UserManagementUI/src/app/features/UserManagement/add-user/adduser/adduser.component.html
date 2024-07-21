@@ -1,0 +1,28 @@
+<div class="container">
+    <h1>Add user</h1>
+    <div class="mt-3">
+        <form #form="ngForm" (ngSubmit)="CreateUser()">
+            <label class="form-label">UserName</label>
+            <input type="text" [(ngModel)]="userModel.UserName" name="UserName" class="form-control" id="UserName" />
+            <label class="form-label">FirstName</label>
+            <input type="text" [(ngModel)]="userModel.FirstName" name="FirstName" class="form-control" id="FirstName" />
+            <label class="form-label">LastName</label>
+            <input type="text" [(ngModel)]="userModel.LastName" name="LastName" class="form-control" id="LastName" />
+            <label class="form-label">Email</label>
+            <input type="text" [(ngModel)]="userModel.Email" name="Email" class="form-control" id="Email" />
+            <label class="form-label">IsTrailUser</label>
+            <input type="checkbox" class="form-check-input" [(ngModel)]="userModel.IsTrailUser" name="IsTrailUser"
+                id="flexCheckChecked"/> <br />
+            <label class="form-label">Customer</label>
+            <select class="form-control" name="customerType" 
+            (change)="CustomerTypeChanged($event)">  
+                <option disabled>Select Customer</option>  
+                <option>Choose Customer</option>  
+                <option *ngFor="let customer of customerTypes" [ngValue]="customer">{{customer}}</option>  
+            </select>
+
+            <button type="submit" class="btn btn-primary">Add</button>
+            <button type="reset" class="btn btn-secondary" (click)="reset()">Reset</button>
+        </form>
+    </div>
+</div>
